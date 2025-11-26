@@ -19,6 +19,7 @@
 </div>
 
 <h3>🌱 Studying </h3>
+
 - Java, C
 - React, React Native
 - Spring Boot, Spring Batch, Spring Security
@@ -26,7 +27,12 @@
 - AWS, Docker
 - Elasticsearch
 
-<h3> Activities </h3>
+
+
+
+
+<h3>📅 Activities </h3>
+
 - 25.09 ~ 25.11 : ICT COC 피우다 프로젝트 - 백엔드
 - 25.07 ~ 25.08 : 신한은행 해커톤 - 백엔드
 - 25.07 ~ : SSAFY 14기 참여
