@@ -17,11 +17,12 @@
 
 ## 🏗️ Projects
 
-### ICT COC 피우다 프로젝트 (2025.09 ~ 2025.11)
-**Fullstack Developer**  
+### ICT COC 피우다 프로젝트 (2025.09 ~ 2025.12)
+**Fullstack Developer | 🏆 우수상 수상 (정보통신산업증흥원장상)**  
 - Spring Boot 기반 서비스 개발  
 - 자체 서버(On-Premise) 환경 인프라 구성  
-- GitHub Actions + Docker + Nginx로 CI/CD 자동화 구축  
+- GitHub Actions + Docker + Nginx로 CI/CD 자동화 구축
+
 
 ### 신한은행 해커톤 (2025.07 ~ 2025.08)
 **Backend Developer**  
