@@ -35,7 +35,6 @@
 
 ### ICT COC 피우다 프로젝트 - WearAgain (2025.09 ~ 2025.12)
 **Fullstack Developer & Infra | 🏆 우수상 수상 (정보통신산업증흥원장상)**  
--
 - Spring Boot & React 기반 서비스 개발  
 - 자체 서버(On-Premise) 환경 인프라 구성  
 - GitHub Actions + Docker + Nginx로 CI/CD 자동화 구축
@@ -98,15 +97,6 @@
 
 ---
 
-## 🌱 Currently Studying
-
-- Spring Cloud, 마이크로서비스 아키텍처  
-- AWS 인프라 운영 자동화  
-- Elasticsearch & 데이터 검색 시스템  
-- 대규모 트래픽 고려한 서버 확장 전략  
-
----
-
 ## 📅 Activities
 - **2025.02 ~ 2026.04** – 삼성전자 VD 사업부 연계 프로젝트 (풀스택 & AI)  
 - **2026.01 ~ 2026.02** – SSAFY 공통 프로젝트(백엔드)
@@ -124,6 +114,15 @@
 - 삼성전자 SSAFY 연계프로젝트 2위 우수상
 - 14회 ICT COC주관 피우다 프로젝트 우수상(정보통신산업증흥원장상)
 - SSAFY 관통프로젝트 최우수상
+
+---
+
+## 🌱 Currently Studying
+
+- Spring Cloud, 마이크로서비스 아키텍처  
+- AWS 인프라 운영 자동화  
+- Elasticsearch & 데이터 검색 시스템  
+- 대규모 트래픽 고려한 서버 확장 전략  
 
 ---
 
