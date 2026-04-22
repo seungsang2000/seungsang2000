@@ -132,6 +132,6 @@
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/rovin000/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rovin000)](https://solved.ac/rovin000/)
 
 <p align="center"><sub>Always learning. Always improving. 🚀</sub></p>
