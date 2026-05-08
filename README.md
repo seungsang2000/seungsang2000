@@ -34,7 +34,7 @@
 - 스트리밍 서버 설계
 
 ### ICT COC 피우다 프로젝트 - WearAgain (2025.09 ~ 2025.12)
-**Fullstack Developer & Infra | 🏆 우수상 수상 (정보통신산업증흥원장상)**  
+**Fullstack Developer & Infra | 🏆 우수상 수상 (정보통신산업진흥원장상)**  
 - Spring Boot & React 기반 서비스 개발  
 - 자체 서버(On-Premise) 환경 인프라 구성  
 - GitHub Actions + Docker + Nginx로 CI/CD 자동화 구축
